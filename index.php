@@ -1,5 +1,5 @@
 <?php
 
-    include "tugas8.html";
+    include "index.html";
 
 ?>
